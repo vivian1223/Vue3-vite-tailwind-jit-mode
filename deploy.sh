@@ -4,5 +4,5 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:vivian1223/Vite-vue3-basic-environment.git master:gh-pages
+git push -f git@github.com:vivian1223/Vue3-vite-tailwind-jit-mode.git master:gh-pages
 cd -
