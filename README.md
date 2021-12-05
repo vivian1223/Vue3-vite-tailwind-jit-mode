@@ -29,4 +29,4 @@
         cd -
     ```
     * run `sh deploy.sh`
-* just underload or import the project to start using the  Tailwind JIT mode in the Vite & Vue 3 
+* just download or import the project to start using the  Tailwind JIT mode in the Vite & Vue 3 
