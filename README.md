@@ -1,1 +1,1 @@
-# Vue3-vite-tailwind-jit-mode
+# Basic Vue 3 and Vite develop environment
