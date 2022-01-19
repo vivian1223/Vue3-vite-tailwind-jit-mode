@@ -5,19 +5,15 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <h1 class="text-[100px]">
+  <h1 class="text-l">
     It must be good!
   </h1>
   <HelloWorld msg="Hello Vue 3 + Vite" />
 </template>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+<style lang="scss">
+.text-l {
+  font-size: 100px;
 }
+
 </style>
