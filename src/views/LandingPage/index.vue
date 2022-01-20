@@ -1,7 +1,6 @@
 <template>
-  <div class="text-1 text-primaryColor-100">
-    嘿嘿嘿
-  </div>
+  <Navigation />
 </template>
 <script setup>
+import Navigation from './Navigation.vue';
 </script>
