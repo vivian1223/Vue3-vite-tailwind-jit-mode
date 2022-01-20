@@ -1,19 +1,10 @@
-<script setup>
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
-import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
-  <h1 class="text-l">
+  <h1 class="text-5 text-primaryColor-100">
     It must be good!
   </h1>
-  <HelloWorld msg="Hello Vue 3 + Vite" />
+  <LandingPage />
 </template>
+<script setup>
+import LandingPage from './views/LandingPage/index.vue'
+</script>
 
-<style lang="scss">
-.text-l {
-  font-size: 100px;
-}
-
-</style>
